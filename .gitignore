@@ -56,3 +56,4 @@ config/environments/*.local.yml
 !/app/assets/builds/.keep
 
 /config/credentials/development.key
+.keep
